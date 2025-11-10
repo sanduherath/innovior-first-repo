@@ -13,3 +13,4 @@ During this internship, I'm looking forward to:
 ## Background
 
 I'm currently pursuing my degree in [Computer Science/Software Engineering/Information Technology] at [Your University]. I have a strong interest in software development and am eager to apply my academic knowledge to real-world projects. In my free time, I enjoy coding personal projects and staying updated with the latest technology trends.
+ add about me 
